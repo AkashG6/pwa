@@ -29,5 +29,5 @@
     "background_color": "#FD8B8B",
     "display": "standalone",
     "scope": "/",
-    "theme_color": "#B21515"
-  }
+   "theme_color": "#B21515"
+}
